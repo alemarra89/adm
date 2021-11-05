@@ -1,0 +1,2415 @@
+[
+  {
+    "uuid": "bec0ac4a-5679-4d81-995d-e4dbaa995f30",
+    "eventUuid": "4693e712-9002-48cc-8ca8-9668ffb221c0",
+    "sectionUuid": "e38a8fb2-9e9a-4443-ad9e-b70a1c843594",
+    "presentationUuid": null,
+    "speakerUuid": null,
+    "active": false,
+    "votingLocked": false,
+    "showResults": true,
+    "title": null,
+    "isQuiz": false,
+    "order": 1,
+    "dateCreated": "2021-10-31T11:07:27.000Z",
+    "dateUpdated": "2021-10-31T11:07:27.000Z",
+    "dateActive": "2021-11-02T11:49:18.000Z",
+    "questions": [
+      {
+        "uuid": "04fc7137-763c-4d43-93ae-1eb59eac1375",
+        "pollUuid": "bec0ac4a-5679-4d81-995d-e4dbaa995f30",
+        "inputType": "OpenText",
+        "title": "Scrivete un argomento (già fatto) che volete rivedere prima di andare su React Native",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 0,
+        "timer": {
+          "enabled": false,
+          "votingTime": 20000
+        },
+        "results": {
+          "displayType": "Wordcloud",
+          "participantCount": 22,
+          "votesCount": 22,
+          "wordcloudData": [
+            {
+              "text": "react",
+              "weight": 0.3
+            },
+            {
+              "text": "Redux 💦💦💦💦💦",
+              "weight": 0.3
+            },
+            {
+              "text": "Redux",
+              "weight": 0.3
+            },
+            {
+              "text": "JavaScript",
+              "weight": 0.2
+            },
+            {
+              "text": "react / redux",
+              "weight": 0.1
+            },
+            {
+              "text": "manuel de paduanis",
+              "weight": 0.1
+            },
+            {
+              "text": "html",
+              "weight": 0.1
+            },
+            {
+              "text": "dispatch👀",
+              "weight": 0.1
+            },
+            {
+              "text": "TUTTOTUTTOTUTTO",
+              "weight": 0.1
+            },
+            {
+              "text": "Redux 🐵🇪🇸🇦🇨",
+              "weight": 0.1
+            },
+            {
+              "text": "Javascriptto!!!",
+              "weight": 0.1
+            },
+            {
+              "text": "I guerra mondiale",
+              "weight": 0.1
+            },
+            {
+              "text": "Dispatch in React",
+              "weight": 0.1
+            },
+            {
+              "text": "Albinator (già fatto)",
+              "weight": 0.1
+            },
+            {
+              "text": "\"tutti quanti\" è valido?",
+              "weight": 0.1
+            }
+          ],
+          "votes": [
+            {
+              "uuid": "7fc01a4f-327f-4197-b399-e400c1ca4073",
+              "text": "Redux 💦💦💦💦💦"
+            },
+            {
+              "uuid": "f6704a12-bad3-4751-a2da-0b11017282b7",
+              "text": "TUTTOTUTTOTUTTO"
+            },
+            {
+              "uuid": "36bd290b-518f-4878-b0a2-bc0fd0169d56",
+              "text": "React"
+            },
+            {
+              "uuid": "47de5329-e805-4227-a9a6-dbd218f0c5f6",
+              "text": "I guerra mondiale"
+            },
+            {
+              "uuid": "5f0ab33a-8efa-4749-bed3-cf007f7e03ea",
+              "text": "HTML"
+            },
+            {
+              "uuid": "449b208f-8863-456b-802d-3f0d4c58c60f",
+              "text": "Redux 🐵🇪🇸🇦🇨"
+            },
+            {
+              "uuid": "b5f46f18-20ae-4374-85b1-801aa15ae977",
+              "text": "react"
+            },
+            {
+              "uuid": "269fe41e-8322-4f3b-a270-4244602871bd",
+              "text": "dispatch👀"
+            },
+            {
+              "uuid": "02f6032a-494e-4c82-972b-7c7944828ff2",
+              "text": "react"
+            },
+            {
+              "uuid": "5f1ce495-8144-43bd-907d-ced328787a15",
+              "text": "Dispatch in React"
+            },
+            {
+              "uuid": "ec4638b3-afb9-43cd-95e8-0cdde5210758",
+              "text": "Redux"
+            },
+            {
+              "uuid": "e019e5e2-d41c-4165-8535-9067d402df1f",
+              "text": "Albinator (già fatto)"
+            },
+            {
+              "uuid": "d8384a54-54bc-4250-8eb0-fe4d9800a9f4",
+              "text": "Redux 💦💦💦💦💦"
+            },
+            {
+              "uuid": "409f22f2-a768-47a5-b537-04e8814dfbbf",
+              "text": "JavaScript"
+            },
+            {
+              "uuid": "4a8e4d41-6dc3-410a-ab7d-08a005b84945",
+              "text": "\"tutti quanti\" è valido?"
+            },
+            {
+              "uuid": "dba433b5-811d-46d9-9d08-3d54178cd6ed",
+              "text": "Redux 💦💦💦💦💦"
+            },
+            {
+              "uuid": "4bdf9e78-652f-41e4-84ba-fa6cbed83eed",
+              "text": "manuel de paduanis"
+            },
+            {
+              "uuid": "7bca5d74-46f6-46ee-87da-6c056f099467",
+              "text": "Javascriptto!!!"
+            },
+            {
+              "uuid": "35da277f-fd72-407a-b9de-cc0d983f4a1d",
+              "text": "Redux"
+            },
+            {
+              "uuid": "0ae7fb16-a7d6-40b5-b6d0-2f49bd1752cb",
+              "text": "react / redux"
+            },
+            {
+              "uuid": "b9feb53a-6815-4f03-9bf1-44c83b06c681",
+              "text": "JavaScript"
+            },
+            {
+              "uuid": "beb39d99-3bf3-4692-953a-9629ea0227e7",
+              "text": "Redux"
+            }
+          ]
+        },
+        "maxChars": 25,
+        "maxCharsEnabled": true,
+        "isProfanityFilterEnabled": true,
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "allowMultipleVotes": false
+      }
+    ],
+    "results": {
+      "participantCount": 22
+    }
+  },
+  {
+    "uuid": "35f568dd-1fb1-44db-a66d-ada069d0e55c",
+    "eventUuid": "4693e712-9002-48cc-8ca8-9668ffb221c0",
+    "sectionUuid": "e38a8fb2-9e9a-4443-ad9e-b70a1c843594",
+    "presentationUuid": null,
+    "speakerUuid": null,
+    "active": false,
+    "votingLocked": false,
+    "showResults": true,
+    "title": null,
+    "isQuiz": false,
+    "order": 2,
+    "dateCreated": "2021-10-31T11:21:32.000Z",
+    "dateUpdated": "2021-10-31T11:21:32.000Z",
+    "dateActive": "2021-11-02T11:52:11.000Z",
+    "questions": [
+      {
+        "uuid": "c2e6095c-b031-4891-957f-6b8f40dbb9d0",
+        "pollUuid": "35f568dd-1fb1-44db-a66d-ada069d0e55c",
+        "inputType": "OpenText",
+        "title": "Durante il corso proveremo a realizzare una piccola app utilizzando l'approccio \"training on the job\".\nProposte?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 0,
+        "timer": {
+          "enabled": false,
+          "votingTime": 20000
+        },
+        "results": {
+          "displayType": "Wordcloud",
+          "participantCount": 16,
+          "votesCount": 16,
+          "wordcloudData": [
+            {
+              "text": "tinder",
+              "weight": 0.1
+            },
+            {
+              "text": "pornhub react",
+              "weight": 0.1
+            },
+            {
+              "text": "musica",
+              "weight": 0.1
+            },
+            {
+              "text": "messaggistica istantena criptata",
+              "weight": 0.1
+            },
+            {
+              "text": "exchange criptovalute ",
+              "weight": 0.1
+            },
+            {
+              "text": "app send nudes",
+              "weight": 0.1
+            },
+            {
+              "text": "TUTTI I GIOCHI DI SQUID GAME 🤓",
+              "weight": 0.1
+            },
+            {
+              "text": "Streaming illegale",
+              "weight": 0.1
+            },
+            {
+              "text": "Social App",
+              "weight": 0.1
+            },
+            {
+              "text": "SITO D'INCONTRI",
+              "weight": 0.1
+            },
+            {
+              "text": "Ricettario di cocktail usando un API esterna",
+              "weight": 0.1
+            },
+            {
+              "text": "Qualsiasi cosa basta che funzioni",
+              "weight": 0.1
+            },
+            {
+              "text": "Order&Go Food",
+              "weight": 0.1
+            },
+            {
+              "text": "Hackeriamo la NASA",
+              "weight": 0.1
+            },
+            {
+              "text": "App di incontri per solo one night stand",
+              "weight": 0.1
+            },
+            {
+              "text": "API di Steam e display delle statistiche di CSGO!",
+              "weight": 0.1
+            }
+          ],
+          "votes": [
+            {
+              "uuid": "c69dbda5-794b-43a3-94b9-5985d1423cc5",
+              "text": "pornhub react"
+            },
+            {
+              "uuid": "58913eb2-5ae1-4128-bf90-9e2da23ee9e7",
+              "text": "App di incontri per solo one night stand"
+            },
+            {
+              "uuid": "d26d8f8e-fda1-43e0-8411-932008717021",
+              "text": "Hackeriamo la NASA"
+            },
+            {
+              "uuid": "dcdee206-9afe-4b3c-a285-5152904b510b",
+              "text": "TUTTI I GIOCHI DI SQUID GAME 🤓"
+            },
+            {
+              "uuid": "2dc54e5f-6161-4c5e-91af-fb272c3df36e",
+              "text": "Streaming illegale"
+            },
+            {
+              "uuid": "4c8d05cd-846c-4364-b44b-e33d9657cb87",
+              "text": "Qualsiasi cosa basta che funzioni"
+            },
+            {
+              "uuid": "2cb57a0e-0aa4-4135-b562-37fcee11083c",
+              "text": "Ricettario di cocktail usando un API esterna"
+            },
+            {
+              "uuid": "0a989c9c-1e29-44a0-906e-040bda5c1924",
+              "text": "app send nudes"
+            },
+            {
+              "uuid": "37040795-fddc-4057-a7d0-304e3fd45b66",
+              "text": "SITO D'INCONTRI"
+            },
+            {
+              "uuid": "77cdd815-bcb1-45d1-8668-8c29e3e6cf6d",
+              "text": "API di Steam e display delle statistiche di CSGO!"
+            },
+            {
+              "uuid": "d9a3f1e0-ab79-4210-9138-da6dd0fae3a9",
+              "text": "tinder"
+            },
+            {
+              "uuid": "5d639666-03ce-4a62-a033-effeaff475c9",
+              "text": "exchange criptovalute "
+            },
+            {
+              "uuid": "f308edff-466e-475d-9983-c8a9599db8fc",
+              "text": "Social App"
+            },
+            {
+              "uuid": "c7847246-a8eb-4e25-964a-a34366c728ef",
+              "text": "musica"
+            },
+            {
+              "uuid": "7cfe627a-9fd5-411a-baff-6557ca0d4dda",
+              "text": "messaggistica istantena criptata"
+            },
+            {
+              "uuid": "ba497342-eca6-4869-812c-ebe860bca345",
+              "text": "Order&Go Food"
+            }
+          ]
+        },
+        "maxChars": 50,
+        "maxCharsEnabled": true,
+        "isProfanityFilterEnabled": true,
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "allowMultipleVotes": false
+      }
+    ],
+    "results": {
+      "participantCount": 16
+    }
+  },
+  {
+    "uuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+    "eventUuid": "4693e712-9002-48cc-8ca8-9668ffb221c0",
+    "sectionUuid": "e38a8fb2-9e9a-4443-ad9e-b70a1c843594",
+    "presentationUuid": null,
+    "speakerUuid": null,
+    "active": false,
+    "votingLocked": true,
+    "showResults": true,
+    "title": null,
+    "isQuiz": true,
+    "leaderboard": "interim",
+    "order": 0,
+    "dateCreated": "2021-10-21T19:19:37.000Z",
+    "dateUpdated": "2021-11-02T11:47:24.000Z",
+    "dateActive": "2021-11-02T09:22:57.000Z",
+    "questions": [
+      {
+        "uuid": "628e74e5-2315-4843-aac9-4c51c47573c2",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa è JavaScript?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 0,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 23,
+          "votesCount": 23
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "380e21e0-d261-4db2-bca3-78df7eb46085",
+            "pollQuestionUuid": "628e74e5-2315-4843-aac9-4c51c47573c2",
+            "isCorrect": false,
+            "label": "Mai sentito nominare",
+            "order": 0,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "556fc817-b472-4813-bd18-20ac719ccd92",
+            "pollQuestionUuid": "628e74e5-2315-4843-aac9-4c51c47573c2",
+            "isCorrect": false,
+            "label": "Sentito nominare, ma proprio non ricordo cosa è",
+            "order": 1,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "767fa611-9e84-4f8a-8a20-6cd0f5516ce0",
+            "pollQuestionUuid": "628e74e5-2315-4843-aac9-4c51c47573c2",
+            "isCorrect": false,
+            "label": "Una serie TV",
+            "order": 2,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "76036596-4197-475c-8a55-2f72b683c78d",
+            "pollQuestionUuid": "628e74e5-2315-4843-aac9-4c51c47573c2",
+            "isCorrect": false,
+            "label": "Uno snippet di codice scritto in Java",
+            "order": 3,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "b2c8ee37-1e75-4b51-94cb-fc49e07c0b43",
+            "pollQuestionUuid": "628e74e5-2315-4843-aac9-4c51c47573c2",
+            "isCorrect": true,
+            "label": "Un linguaggio di programmazione",
+            "order": 4,
+            "votesCount": 23,
+            "votesPercentage": 100
+          },
+          {
+            "uuid": "e42ebdb6-ac5a-456e-a7e2-34fdc5601c9d",
+            "pollQuestionUuid": "628e74e5-2315-4843-aac9-4c51c47573c2",
+            "isCorrect": false,
+            "label": "La libreria integrata nei browser che permette di visualizzare pagine web",
+            "order": 5,
+            "votesCount": 0,
+            "votesPercentage": 0
+          }
+        ]
+      },
+      {
+        "uuid": "96f51282-b3e9-4339-82d3-08c746edccdd",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Si possono dichiarare variabili utilizzando var - let - const. Differenze?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 1,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 22,
+          "votesCount": 22
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "4f017477-1304-43e2-8022-90eabd3cf195",
+            "pollQuestionUuid": "96f51282-b3e9-4339-82d3-08c746edccdd",
+            "isCorrect": false,
+            "label": "Non ci sono differenze.",
+            "order": 0,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "9a6bfdf6-9df7-4495-9b13-da2fcc9a4c97",
+            "pollQuestionUuid": "96f51282-b3e9-4339-82d3-08c746edccdd",
+            "isCorrect": false,
+            "label": "const si usa per le costanti.\nvar per le variabili.\nlet non esiste.",
+            "order": 1,
+            "votesCount": 1,
+            "votesPercentage": 5
+          },
+          {
+            "uuid": "4bfead82-540e-4b7e-bdef-5975fc062545",
+            "pollQuestionUuid": "96f51282-b3e9-4339-82d3-08c746edccdd",
+            "isCorrect": false,
+            "label": "const si usa per le costanti.\nlet per le variabili.\nvar non esiste.",
+            "order": 2,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "0c168659-0102-48d6-a961-891db32cab7d",
+            "pollQuestionUuid": "96f51282-b3e9-4339-82d3-08c746edccdd",
+            "isCorrect": true,
+            "label": "Nessuna delle precedenti",
+            "order": 3,
+            "votesCount": 21,
+            "votesPercentage": 95
+          }
+        ]
+      },
+      {
+        "uuid": "f03068b8-0037-43d4-b5aa-e59600873330",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa è lo scope?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 2,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 23,
+          "votesCount": 23
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "77c2b346-d4cd-4642-819b-f0b12e0c3233",
+            "pollQuestionUuid": "f03068b8-0037-43d4-b5aa-e59600873330",
+            "isCorrect": false,
+            "label": "Il programma \"Il senso della vita\" di Paolo Bonolis",
+            "order": 0,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "359b4296-b511-4302-987b-d2d951c2a551",
+            "pollQuestionUuid": "f03068b8-0037-43d4-b5aa-e59600873330",
+            "isCorrect": false,
+            "label": "Il tipo di ritorno di una funzione",
+            "order": 1,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "2fce7af4-99e9-4c7c-861e-57f46a53bc87",
+            "pollQuestionUuid": "f03068b8-0037-43d4-b5aa-e59600873330",
+            "isCorrect": true,
+            "label": "La visibilità di una variabile",
+            "order": 2,
+            "votesCount": 19,
+            "votesPercentage": 83
+          },
+          {
+            "uuid": "d66c4ee8-40e8-4ebf-8bd6-e84581b57610",
+            "pollQuestionUuid": "f03068b8-0037-43d4-b5aa-e59600873330",
+            "isCorrect": false,
+            "label": "La capacità di JavaScript di rendere utilizzabile una variabile prima della sua dichiarazione",
+            "order": 3,
+            "votesCount": 4,
+            "votesPercentage": 17
+          }
+        ]
+      },
+      {
+        "uuid": "537505f2-9bad-4c58-be85-02454c3fb298",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa sono node ed npm?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 3,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 22,
+          "votesCount": 22
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "109a138b-104e-465c-95a7-d007105927ed",
+            "pollQuestionUuid": "537505f2-9bad-4c58-be85-02454c3fb298",
+            "isCorrect": false,
+            "label": "Si tratta dei protocolli alla base dei collegamenti di rete e che permettono la connessione ad Internet.",
+            "order": 0,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "02c436dc-5e5f-4b28-a8ca-1f36450af5c5",
+            "pollQuestionUuid": "537505f2-9bad-4c58-be85-02454c3fb298",
+            "isCorrect": false,
+            "label": "Sono 2 tra le più importanti librerie JavaScript per lo sviluppo web.",
+            "order": 1,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "8578fc93-aa73-4b67-bed6-c71c771fabbc",
+            "pollQuestionUuid": "537505f2-9bad-4c58-be85-02454c3fb298",
+            "isCorrect": false,
+            "label": "Node è l'elenco di regole da seguire per creare i link tra le pagine HTML.\nnpm è una libreria JavaScript che consente di creare i link.",
+            "order": 2,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "30cfcd06-1045-445e-ada1-adc44726a9ca",
+            "pollQuestionUuid": "537505f2-9bad-4c58-be85-02454c3fb298",
+            "isCorrect": true,
+            "label": "Node è l'ambiene che permette di eseguire codice JavaScript ed npm è il gestore di pacchetti di Node.",
+            "order": 3,
+            "votesCount": 22,
+            "votesPercentage": 100
+          }
+        ]
+      },
+      {
+        "uuid": "cafbf8e4-1918-4db0-9da7-503b33b56cf9",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa è la teoria delle stringhe?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 4,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 23,
+          "votesCount": 23
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "9ce55755-47f5-4c7c-8508-8dcc76041456",
+            "pollQuestionUuid": "cafbf8e4-1918-4db0-9da7-503b33b56cf9",
+            "isCorrect": false,
+            "label": "L'insieme delle specifiche per l'utilizzo delle stringhe in JavaScript",
+            "order": 0,
+            "votesCount": 6,
+            "votesPercentage": 26
+          },
+          {
+            "uuid": "cdf0c648-e48f-41fd-bcd8-b559d540292a",
+            "pollQuestionUuid": "cafbf8e4-1918-4db0-9da7-503b33b56cf9",
+            "isCorrect": false,
+            "label": "L'oggetto utilizzato per rappresentare e manipolare una sequenza di caratteri",
+            "order": 1,
+            "votesCount": 7,
+            "votesPercentage": 30
+          },
+          {
+            "uuid": "5e821f69-66fc-4148-9caa-dedbc931efab",
+            "pollQuestionUuid": "cafbf8e4-1918-4db0-9da7-503b33b56cf9",
+            "isCorrect": true,
+            "label": "Una teoria di fisica su cui lavora Sheldon Cooper in The Big Bang Theory",
+            "order": 2,
+            "votesCount": 10,
+            "votesPercentage": 43
+          },
+          {
+            "uuid": "67e72dff-c501-4507-873c-0cdb1d70e21e",
+            "pollQuestionUuid": "cafbf8e4-1918-4db0-9da7-503b33b56cf9",
+            "isCorrect": false,
+            "label": "Non so",
+            "order": 3,
+            "votesCount": 0,
+            "votesPercentage": 0
+          }
+        ]
+      },
+      {
+        "uuid": "6783fef6-0346-443a-9716-0355366c1f45",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "console.log( 10 + \"3\" );\nconsole.log( 10 - \"3\" )",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 5,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 22,
+          "votesCount": 22
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "0dc1f136-e8d6-43b2-9256-8c7c8924083e",
+            "pollQuestionUuid": "6783fef6-0346-443a-9716-0355366c1f45",
+            "isCorrect": false,
+            "label": "10\n7",
+            "order": 0,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "058f9b29-ff42-4e58-9dbd-baaad842dc67",
+            "pollQuestionUuid": "6783fef6-0346-443a-9716-0355366c1f45",
+            "isCorrect": false,
+            "label": "13\n7",
+            "order": 1,
+            "votesCount": 1,
+            "votesPercentage": 5
+          },
+          {
+            "uuid": "d73ac840-7d0f-4fad-8e0c-d95a53f8dbd2",
+            "pollQuestionUuid": "6783fef6-0346-443a-9716-0355366c1f45",
+            "isCorrect": true,
+            "label": "103\n7",
+            "order": 2,
+            "votesCount": 14,
+            "votesPercentage": 64
+          },
+          {
+            "uuid": "96536e55-0c40-4366-a709-75597fe446a2",
+            "pollQuestionUuid": "6783fef6-0346-443a-9716-0355366c1f45",
+            "isCorrect": false,
+            "label": "103\nErrore",
+            "order": 3,
+            "votesCount": 7,
+            "votesPercentage": 32
+          }
+        ]
+      },
+      {
+        "uuid": "01a53f66-1ec9-4e12-9429-6ef472d20d09",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa è useEffect?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 6,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 22,
+          "votesCount": 22
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "2fecd0b6-83cb-441f-b89b-55185f68503c",
+            "pollQuestionUuid": "01a53f66-1ec9-4e12-9429-6ef472d20d09",
+            "isCorrect": false,
+            "label": "Una libreria di React Native",
+            "order": 0,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "3855f09f-5fbb-42f9-ba4e-6c7c192228f4",
+            "pollQuestionUuid": "01a53f66-1ec9-4e12-9429-6ef472d20d09",
+            "isCorrect": false,
+            "label": "L'istruzione principale per creare un componente",
+            "order": 1,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "0f2e2ef9-38f1-46c5-9fc8-52d0bcdf3ea5",
+            "pollQuestionUuid": "01a53f66-1ec9-4e12-9429-6ef472d20d09",
+            "isCorrect": true,
+            "label": "Un hook di React",
+            "order": 2,
+            "votesCount": 22,
+            "votesPercentage": 100
+          },
+          {
+            "uuid": "cd8fbc7e-82ce-49d2-a69f-f78ae8a76e1f",
+            "pollQuestionUuid": "01a53f66-1ec9-4e12-9429-6ef472d20d09",
+            "isCorrect": false,
+            "label": "Il metodo per fare una chiamata http",
+            "order": 3,
+            "votesCount": 0,
+            "votesPercentage": 0
+          }
+        ]
+      },
+      {
+        "uuid": "a5ac3333-7f36-40e2-b948-1dd16ea1aeee",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "A cosa servono le parentesi quadre come secondo argomento nello useEffect?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 7,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 21,
+          "votesCount": 21
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "48e5c46b-ab23-4010-bf73-cb753d9c82f8",
+            "pollQuestionUuid": "a5ac3333-7f36-40e2-b948-1dd16ea1aeee",
+            "isCorrect": true,
+            "label": "E' un elenco di dipendenze che servono ad eseguire la funzione (primo argomento) ogni volta che cambia uno dei suoi valori",
+            "order": 0,
+            "votesCount": 7,
+            "votesPercentage": 33
+          },
+          {
+            "uuid": "68190090-1d2b-4e36-8e07-d70a14780d2b",
+            "pollQuestionUuid": "a5ac3333-7f36-40e2-b948-1dd16ea1aeee",
+            "isCorrect": false,
+            "label": "Servono per la retrocompatibilità con i metodi del lifecycle dei class component (componentDidMount, componentDidUpdate, componentWillUnmount)",
+            "order": 1,
+            "votesCount": 12,
+            "votesPercentage": 57
+          },
+          {
+            "uuid": "1208eca6-c714-4ca0-adbd-1b7ceee95a1c",
+            "pollQuestionUuid": "a5ac3333-7f36-40e2-b948-1dd16ea1aeee",
+            "isCorrect": false,
+            "label": "Servono per eseguire delle azioni aggiuntive quando il componente viene rimosso dalla pagina",
+            "order": 2,
+            "votesCount": 1,
+            "votesPercentage": 5
+          },
+          {
+            "uuid": "bdae797a-553a-41d5-827f-83a88db16554",
+            "pollQuestionUuid": "a5ac3333-7f36-40e2-b948-1dd16ea1aeee",
+            "isCorrect": false,
+            "label": "Non esiste il secondo argomento nello useEffect",
+            "order": 3,
+            "votesCount": 1,
+            "votesPercentage": 5
+          }
+        ]
+      },
+      {
+        "uuid": "40cd13d0-95b1-47fd-979a-89369511632a",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "A cosa serve il return all'interno dello useEffect?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 8,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 21,
+          "votesCount": 21
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "f2fcbd77-ed47-44d4-b15e-71384711ed7c",
+            "pollQuestionUuid": "40cd13d0-95b1-47fd-979a-89369511632a",
+            "isCorrect": false,
+            "label": "Serve a restituire il valore della funzione eseguita",
+            "order": 0,
+            "votesCount": 14,
+            "votesPercentage": 67
+          },
+          {
+            "uuid": "38873119-61ea-4d48-ad99-64c4158e85f2",
+            "pollQuestionUuid": "40cd13d0-95b1-47fd-979a-89369511632a",
+            "isCorrect": true,
+            "label": "Servono per eseguire delle azioni aggiuntive quando il componente viene rimosso dalla pagina",
+            "order": 1,
+            "votesCount": 5,
+            "votesPercentage": 24
+          },
+          {
+            "uuid": "b929973f-8978-4447-a658-d12a2ea4b249",
+            "pollQuestionUuid": "40cd13d0-95b1-47fd-979a-89369511632a",
+            "isCorrect": false,
+            "label": "Non esiste il return nello useEffect",
+            "order": 2,
+            "votesCount": 2,
+            "votesPercentage": 10
+          },
+          {
+            "uuid": "9ad51874-ae5b-43f5-a315-f4dbe80d96d1",
+            "pollQuestionUuid": "40cd13d0-95b1-47fd-979a-89369511632a",
+            "isCorrect": false,
+            "label": "Se associato ad una condizione, serve ad  eseguire solo parzialmente il codice contenuto nella funzione",
+            "order": 3,
+            "votesCount": 0,
+            "votesPercentage": 0
+          }
+        ]
+      },
+      {
+        "uuid": "e8d9a73a-fa48-486c-b048-7fa094549883",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Qual è la differenza tra == e === ?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 9,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 23,
+          "votesCount": 23
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "ab2e8907-96d1-4179-8e53-55d534947f55",
+            "pollQuestionUuid": "e8d9a73a-fa48-486c-b048-7fa094549883",
+            "isCorrect": false,
+            "label": "Non c'è nessuna differenza",
+            "order": 0,
+            "votesCount": 1,
+            "votesPercentage": 4
+          },
+          {
+            "uuid": "601fe731-9be9-4ac8-9f24-5ae643d68a3b",
+            "pollQuestionUuid": "e8d9a73a-fa48-486c-b048-7fa094549883",
+            "isCorrect": false,
+            "label": "L'operatore === non esiste",
+            "order": 1,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "9d7ec4e0-4b10-4705-9caa-5c556dfccb08",
+            "pollQuestionUuid": "e8d9a73a-fa48-486c-b048-7fa094549883",
+            "isCorrect": true,
+            "label": "== verifica l'uguaglianza tra i valori delle variabili\n=== verifica l'uguaglianza tra tipo di variabile e i valori",
+            "order": 2,
+            "votesCount": 22,
+            "votesPercentage": 96
+          },
+          {
+            "uuid": "715ed927-6898-4296-853f-11446f9f07da",
+            "pollQuestionUuid": "e8d9a73a-fa48-486c-b048-7fa094549883",
+            "isCorrect": false,
+            "label": "== si può utilizzare su tutti i tipi di variabili\n=== si può utilizzare solo tra stringhe",
+            "order": 3,
+            "votesCount": 0,
+            "votesPercentage": 0
+          }
+        ]
+      },
+      {
+        "uuid": "000fbc20-dbc2-437a-bb74-27789bec4880",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "In TypeScript, come si dichiara una variabile che può essere sia stringa che numero?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 10,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 23,
+          "votesCount": 23
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "f68d56c0-9dc8-4f08-b592-93e09f39d56f",
+            "pollQuestionUuid": "000fbc20-dbc2-437a-bb74-27789bec4880",
+            "isCorrect": false,
+            "label": "const var: string | number;",
+            "order": 0,
+            "votesCount": 8,
+            "votesPercentage": 35
+          },
+          {
+            "uuid": "ad6d4d32-6d32-493d-ae9f-c4ef1bee2b2a",
+            "pollQuestionUuid": "000fbc20-dbc2-437a-bb74-27789bec4880",
+            "isCorrect": true,
+            "label": "const variable: string | number;",
+            "order": 1,
+            "votesCount": 13,
+            "votesPercentage": 57
+          },
+          {
+            "uuid": "1d015c10-5caa-4306-ac80-96c628541dd9",
+            "pollQuestionUuid": "000fbc20-dbc2-437a-bb74-27789bec4880",
+            "isCorrect": false,
+            "label": "const variable: string & number;",
+            "order": 2,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "f41dd2ea-7a05-4676-9634-1b1020801e65",
+            "pollQuestionUuid": "000fbc20-dbc2-437a-bb74-27789bec4880",
+            "isCorrect": false,
+            "label": "Non è possibile in TypeScript",
+            "order": 3,
+            "votesCount": 2,
+            "votesPercentage": 9
+          }
+        ]
+      },
+      {
+        "uuid": "7dd7e256-cfe6-42d0-aec8-aea77a90914e",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa viene stampato in console?\n\nconst a = 5;\nconst b = a;\nb++;\nconsole.log(a);\nconsole.log(b);",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 11,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 22,
+          "votesCount": 22
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "2a79fee1-4cc8-4b17-bf33-36564c3d2b38",
+            "pollQuestionUuid": "7dd7e256-cfe6-42d0-aec8-aea77a90914e",
+            "isCorrect": false,
+            "label": "5\n6",
+            "order": 0,
+            "votesCount": 9,
+            "votesPercentage": 41
+          },
+          {
+            "uuid": "e4849342-8fa2-4d33-a727-0a97c625b94d",
+            "pollQuestionUuid": "7dd7e256-cfe6-42d0-aec8-aea77a90914e",
+            "isCorrect": false,
+            "label": "6\n5",
+            "order": 1,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "9480779d-b72e-4e81-b593-cd9296c8fc26",
+            "pollQuestionUuid": "7dd7e256-cfe6-42d0-aec8-aea77a90914e",
+            "isCorrect": false,
+            "label": "6\n6",
+            "order": 2,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "652d1bf5-9cf9-4920-ad39-37ea8a32c1d8",
+            "pollQuestionUuid": "7dd7e256-cfe6-42d0-aec8-aea77a90914e",
+            "isCorrect": true,
+            "label": "Compare un errore",
+            "order": 3,
+            "votesCount": 13,
+            "votesPercentage": 59
+          }
+        ]
+      },
+      {
+        "uuid": "d3a262fe-21b4-45d9-8609-5945a905778d",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa viene stampato in console?\n\nconst r1 = { b: 5, h: 10 };\nconst r2 = r1;\nr1.b = 8;\nconsole.log(\"Area r1:\", r1.b * r1.h);\nconsole.log(\"Area r2:\", r2.b * r2.h);",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 12,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 22,
+          "votesCount": 22
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "6b4f97f1-6d63-4dbf-b926-1fcaf96e2de3",
+            "pollQuestionUuid": "d3a262fe-21b4-45d9-8609-5945a905778d",
+            "isCorrect": false,
+            "label": "Area r1: 50\nArea r2: 80",
+            "order": 0,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "b266d413-b8b7-443c-8bf3-9478dc4c41d0",
+            "pollQuestionUuid": "d3a262fe-21b4-45d9-8609-5945a905778d",
+            "isCorrect": false,
+            "label": "Area r1: 80\nArea r2: 50",
+            "order": 1,
+            "votesCount": 15,
+            "votesPercentage": 68
+          },
+          {
+            "uuid": "f4ced865-c853-4c4d-a08e-e25f86ff2106",
+            "pollQuestionUuid": "d3a262fe-21b4-45d9-8609-5945a905778d",
+            "isCorrect": true,
+            "label": "Area r1: 80\nArea r2: 80",
+            "order": 2,
+            "votesCount": 5,
+            "votesPercentage": 23
+          },
+          {
+            "uuid": "ae710fd3-0311-41bd-a268-7aed6ea35a7d",
+            "pollQuestionUuid": "d3a262fe-21b4-45d9-8609-5945a905778d",
+            "isCorrect": false,
+            "label": "Non si può valorizzare r1.b = 8 perché r1 è dichiarato come const",
+            "order": 3,
+            "votesCount": 2,
+            "votesPercentage": 9
+          }
+        ]
+      },
+      {
+        "uuid": "3e4ac993-cb2c-43b4-825a-46bf29176546",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa viene stampato in console?\n\nconst r1 = { b: 5, h: 10 };\nconst r2 = { ...r1 };\nr1.b = 8;\nconsole.log(\"Area r1:\", r1.b * r1.h);\nconsole.log(\"Area r2:\", r2.b * r2.h);",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 13,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 23,
+          "votesCount": 23
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "c04d268e-f78b-447e-8637-e99ef870710b",
+            "pollQuestionUuid": "3e4ac993-cb2c-43b4-825a-46bf29176546",
+            "isCorrect": false,
+            "label": "Area r1: 50\nArea r2: 80",
+            "order": 0,
+            "votesCount": 4,
+            "votesPercentage": 17
+          },
+          {
+            "uuid": "9f41cfab-77d0-4f2b-a7d7-2d18d487d09e",
+            "pollQuestionUuid": "3e4ac993-cb2c-43b4-825a-46bf29176546",
+            "isCorrect": true,
+            "label": "Area r1: 80\nArea r2: 50",
+            "order": 1,
+            "votesCount": 18,
+            "votesPercentage": 78
+          },
+          {
+            "uuid": "a220189c-9705-4b90-a04a-456324ce9301",
+            "pollQuestionUuid": "3e4ac993-cb2c-43b4-825a-46bf29176546",
+            "isCorrect": false,
+            "label": "Area r1: 80\nArea r2: 80",
+            "order": 2,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "4f3f2dc3-1717-4ff3-84e9-128c691b925f",
+            "pollQuestionUuid": "3e4ac993-cb2c-43b4-825a-46bf29176546",
+            "isCorrect": false,
+            "label": "Errore TypeError",
+            "order": 3,
+            "votesCount": 1,
+            "votesPercentage": 4
+          }
+        ]
+      },
+      {
+        "uuid": "996698a2-509c-4f2e-b091-4249bc3ab1bc",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa viene stampato in console?\n\nif (\"\") {\n    console.log(\"true\");\n} else {\n    console.log(\"false\");\n}",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 14,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 24,
+          "votesCount": 24
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "3fc068a1-8e0a-4b69-8633-5c59f016f201",
+            "pollQuestionUuid": "996698a2-509c-4f2e-b091-4249bc3ab1bc",
+            "isCorrect": false,
+            "label": "true",
+            "order": 0,
+            "votesCount": 2,
+            "votesPercentage": 8
+          },
+          {
+            "uuid": "1b60c845-d2ce-427d-aa16-095f7c89b02a",
+            "pollQuestionUuid": "996698a2-509c-4f2e-b091-4249bc3ab1bc",
+            "isCorrect": true,
+            "label": "false",
+            "order": 1,
+            "votesCount": 16,
+            "votesPercentage": 67
+          },
+          {
+            "uuid": "4adb1d7d-7e1c-4802-bbc3-cb7b66f18905",
+            "pollQuestionUuid": "996698a2-509c-4f2e-b091-4249bc3ab1bc",
+            "isCorrect": false,
+            "label": "Errore",
+            "order": 2,
+            "votesCount": 6,
+            "votesPercentage": 25
+          }
+        ]
+      },
+      {
+        "uuid": "c829670c-6d3d-4559-b517-fada4cbb8bdf",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa viene stampato in console?\n\nif ([]) {\n    console.log(\"true\");\n} else {\n    console.log(\"false\");\n}",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 15,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 20,
+          "votesCount": 20
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "008dca24-0e15-4e4b-9bd1-0a261e7085e4",
+            "pollQuestionUuid": "c829670c-6d3d-4559-b517-fada4cbb8bdf",
+            "isCorrect": true,
+            "label": "true",
+            "order": 0,
+            "votesCount": 18,
+            "votesPercentage": 90
+          },
+          {
+            "uuid": "f9bc1eb1-9b7a-471f-bef9-6187ac5e6c92",
+            "pollQuestionUuid": "c829670c-6d3d-4559-b517-fada4cbb8bdf",
+            "isCorrect": false,
+            "label": "false",
+            "order": 1,
+            "votesCount": 1,
+            "votesPercentage": 5
+          },
+          {
+            "uuid": "8c234c44-d139-4eb0-a210-08a1ad2150fb",
+            "pollQuestionUuid": "c829670c-6d3d-4559-b517-fada4cbb8bdf",
+            "isCorrect": false,
+            "label": "Errore",
+            "order": 2,
+            "votesCount": 1,
+            "votesPercentage": 5
+          }
+        ]
+      },
+      {
+        "uuid": "4e8bef61-6526-4a55-bca6-024e817a06ea",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Quale attributo CSS consente di creare dei bordi arrodondati?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 16,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 24,
+          "votesCount": 24
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "70554a56-f2e8-41d2-9e9f-52e3b83c253d",
+            "pollQuestionUuid": "4e8bef61-6526-4a55-bca6-024e817a06ea",
+            "isCorrect": false,
+            "label": "border-style",
+            "order": 0,
+            "votesCount": 1,
+            "votesPercentage": 4
+          },
+          {
+            "uuid": "d9f7ebca-260d-41b7-b7f6-ec66a606549d",
+            "pollQuestionUuid": "4e8bef61-6526-4a55-bca6-024e817a06ea",
+            "isCorrect": true,
+            "label": "border-radius",
+            "order": 1,
+            "votesCount": 23,
+            "votesPercentage": 96
+          },
+          {
+            "uuid": "176290f4-49bd-43f3-acfe-90b2a9d5b5d7",
+            "pollQuestionUuid": "4e8bef61-6526-4a55-bca6-024e817a06ea",
+            "isCorrect": false,
+            "label": "border-rounded",
+            "order": 2,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "cc113bc4-5180-44b9-8a9e-419e627e6cfe",
+            "pollQuestionUuid": "4e8bef61-6526-4a55-bca6-024e817a06ea",
+            "isCorrect": false,
+            "label": "border-width",
+            "order": 3,
+            "votesCount": 0,
+            "votesPercentage": 0
+          }
+        ]
+      },
+      {
+        "uuid": "d3d376be-d16c-463c-b99c-946de9fb897f",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Qual è la sintassi corretta per aggiungere un elemento ad un array utilizzando lo spread operator?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 17,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 21,
+          "votesCount": 21
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "f425c3ba-4b38-49ff-b7b6-6d9de11581e4",
+            "pollQuestionUuid": "d3d376be-d16c-463c-b99c-946de9fb897f",
+            "isCorrect": true,
+            "label": "const newArray = [...myArray, newElement];",
+            "order": 0,
+            "votesCount": 16,
+            "votesPercentage": 76
+          },
+          {
+            "uuid": "18cbacf7-a507-4526-a089-390fcaf68a6d",
+            "pollQuestionUuid": "d3d376be-d16c-463c-b99c-946de9fb897f",
+            "isCorrect": false,
+            "label": "const newArray = myArray.push(newElement);",
+            "order": 1,
+            "votesCount": 4,
+            "votesPercentage": 19
+          },
+          {
+            "uuid": "909b0ff1-49c1-48e0-99de-3f432ff74f88",
+            "pollQuestionUuid": "d3d376be-d16c-463c-b99c-946de9fb897f",
+            "isCorrect": false,
+            "label": "const newArray = [myArray, newElement];",
+            "order": 2,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "1817fe30-6209-4bab-a500-d19428549781",
+            "pollQuestionUuid": "d3d376be-d16c-463c-b99c-946de9fb897f",
+            "isCorrect": false,
+            "label": "const newArray = myArray.spread(newElement);",
+            "order": 3,
+            "votesCount": 1,
+            "votesPercentage": 5
+          }
+        ]
+      },
+      {
+        "uuid": "3e4a7bb8-6e5a-40b4-8a01-50e85c655a37",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa è il destructuring?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 18,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 23,
+          "votesCount": 23
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "4409df07-d978-481b-8694-4eba97ab4f50",
+            "pollQuestionUuid": "3e4a7bb8-6e5a-40b4-8a01-50e85c655a37",
+            "isCorrect": false,
+            "label": "Il metodo per estrarre variabili da un oggetto",
+            "order": 0,
+            "votesCount": 11,
+            "votesPercentage": 48
+          },
+          {
+            "uuid": "c0730a2e-811d-45b8-8094-af4efdb068a1",
+            "pollQuestionUuid": "3e4a7bb8-6e5a-40b4-8a01-50e85c655a37",
+            "isCorrect": false,
+            "label": "Il metodo per estrarre variabili da un array",
+            "order": 1,
+            "votesCount": 1,
+            "votesPercentage": 4
+          },
+          {
+            "uuid": "23341827-7f35-4100-837c-c7a93cbe4f98",
+            "pollQuestionUuid": "3e4a7bb8-6e5a-40b4-8a01-50e85c655a37",
+            "isCorrect": true,
+            "label": "Entrambe le precedenti",
+            "order": 2,
+            "votesCount": 11,
+            "votesPercentage": 48
+          },
+          {
+            "uuid": "84fa5b4d-5ad8-4fde-8ff8-88330b598769",
+            "pollQuestionUuid": "3e4a7bb8-6e5a-40b4-8a01-50e85c655a37",
+            "isCorrect": false,
+            "label": "Nessuna delle precedenti",
+            "order": 3,
+            "votesCount": 0,
+            "votesPercentage": 0
+          }
+        ]
+      },
+      {
+        "uuid": "bd42a26b-eca9-479f-afb5-4d0439976964",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa viene in mente con la parola \"map\"?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 19,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 23,
+          "votesCount": 23
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "31aa87d9-15d0-4735-888d-431b8ef50e33",
+            "pollQuestionUuid": "bd42a26b-eca9-479f-afb5-4d0439976964",
+            "isCorrect": false,
+            "label": "E' il metodo standard per visualizzare una mappa all'interno di una pagina web",
+            "order": 0,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "f40f504e-217f-4ff9-82fe-99fbb39e22b1",
+            "pollQuestionUuid": "bd42a26b-eca9-479f-afb5-4d0439976964",
+            "isCorrect": false,
+            "label": "La miniserie One Billion Dollar Code che parla di come Google abbia copiato l'idea di rappresentare il pianeta da un'azienda tedesca",
+            "order": 1,
+            "votesCount": 3,
+            "votesPercentage": 13
+          },
+          {
+            "uuid": "434bd658-df24-4705-ad82-dd4f8439ad3a",
+            "pollQuestionUuid": "bd42a26b-eca9-479f-afb5-4d0439976964",
+            "isCorrect": true,
+            "label": "E' un metodo che cicla su un array e restituisce un nuovo array",
+            "order": 2,
+            "votesCount": 20,
+            "votesPercentage": 87
+          },
+          {
+            "uuid": "cd5b6672-1ed5-4f6a-ae9c-5820a794d42f",
+            "pollQuestionUuid": "bd42a26b-eca9-479f-afb5-4d0439976964",
+            "isCorrect": false,
+            "label": "E' il metodo utilizzato dal browser per mappare i file minificati e visualizzare i file JavaScript completi nel tab Sources nella Chrome web tool",
+            "order": 3,
+            "votesCount": 0,
+            "votesPercentage": 0
+          }
+        ]
+      },
+      {
+        "uuid": "9c700f27-abe1-41dd-a6a7-092578dbdb2c",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa viene in mente con la parola \"filter\"?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 20,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 24,
+          "votesCount": 24
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "7c06a856-ad85-43c5-bb15-52ee65433a6e",
+            "pollQuestionUuid": "9c700f27-abe1-41dd-a6a7-092578dbdb2c",
+            "isCorrect": false,
+            "label": "E' una delle parole che vedo scritta sui pacchetti di sigarette, ma non penso che questa sia l'opzione corretta in questo contesto",
+            "order": 0,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "1c52efb1-095b-4df4-ac09-09231c770e66",
+            "pollQuestionUuid": "9c700f27-abe1-41dd-a6a7-092578dbdb2c",
+            "isCorrect": true,
+            "label": "E' un metodo che cicla su un array e restituisce un nuovo array",
+            "order": 1,
+            "votesCount": 23,
+            "votesPercentage": 96
+          },
+          {
+            "uuid": "d122abe5-ebfe-48dd-8305-e8d8dd8e9e90",
+            "pollQuestionUuid": "9c700f27-abe1-41dd-a6a7-092578dbdb2c",
+            "isCorrect": false,
+            "label": "E' un metodo di React che consente di effettuare una ricerca all'interno di un array",
+            "order": 2,
+            "votesCount": 1,
+            "votesPercentage": 4
+          },
+          {
+            "uuid": "adc1dd10-f61f-4b5d-ab7d-98141e6205ac",
+            "pollQuestionUuid": "9c700f27-abe1-41dd-a6a7-092578dbdb2c",
+            "isCorrect": false,
+            "label": "E' un hook di React",
+            "order": 3,
+            "votesCount": 0,
+            "votesPercentage": 0
+          }
+        ]
+      },
+      {
+        "uuid": "64a98006-ffab-484e-869e-2276bafa365b",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa viene in mente con la parola \"promise\"?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 21,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 24,
+          "votesCount": 24
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "eb496cff-0713-4b40-81c3-39b8401c3e41",
+            "pollQuestionUuid": "64a98006-ffab-484e-869e-2276bafa365b",
+            "isCorrect": false,
+            "label": "Una canzone dei Simple Plan",
+            "order": 0,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "4e2eda9c-ea4c-4d55-a32a-cd5cecd7dba3",
+            "pollQuestionUuid": "64a98006-ffab-484e-869e-2276bafa365b",
+            "isCorrect": true,
+            "label": "Un oggetto che rappresenta l'eventuale completamento (o errore) di un'operazione asincrona e il relativo valore risultante.",
+            "order": 1,
+            "votesCount": 23,
+            "votesPercentage": 96
+          },
+          {
+            "uuid": "0557118a-a1cd-4355-97b0-f290f47649d2",
+            "pollQuestionUuid": "64a98006-ffab-484e-869e-2276bafa365b",
+            "isCorrect": false,
+            "label": "La promessa fatta dai creatori di Java e di JavaScript che prevede di unificare i 2 linguaggi in occasione dell'Oracle Web Summit del 2025",
+            "order": 2,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "0863a455-429b-4480-af6d-9db0133ea039",
+            "pollQuestionUuid": "64a98006-ffab-484e-869e-2276bafa365b",
+            "isCorrect": false,
+            "label": "Questa domanda era troppo scontata o forse era a trabocchetto, ma in ogni caso questa opzione è sicuramente sbagliata",
+            "order": 3,
+            "votesCount": 1,
+            "votesPercentage": 4
+          }
+        ]
+      },
+      {
+        "uuid": "799fcd88-1dd4-41b6-b69f-76dc6bd94623",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Come si crea un custom type in TypeScript",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 22,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 22,
+          "votesCount": 22
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "ad3ef07d-248e-46e6-be49-3930b058166f",
+            "pollQuestionUuid": "799fcd88-1dd4-41b6-b69f-76dc6bd94623",
+            "isCorrect": false,
+            "label": "Utilizzando la keyword type",
+            "order": 0,
+            "votesCount": 12,
+            "votesPercentage": 55
+          },
+          {
+            "uuid": "81b9079a-4263-4c86-a296-ab2e6248d670",
+            "pollQuestionUuid": "799fcd88-1dd4-41b6-b69f-76dc6bd94623",
+            "isCorrect": false,
+            "label": "Utilizzando la keyword interface",
+            "order": 1,
+            "votesCount": 4,
+            "votesPercentage": 18
+          },
+          {
+            "uuid": "e99770eb-9a87-40e3-9fa9-b7d0afd1feb4",
+            "pollQuestionUuid": "799fcd88-1dd4-41b6-b69f-76dc6bd94623",
+            "isCorrect": true,
+            "label": "Sono valide entrambe le scelte precedenti",
+            "order": 2,
+            "votesCount": 5,
+            "votesPercentage": 23
+          },
+          {
+            "uuid": "d03e0213-b98e-47b7-8659-1e83682334a7",
+            "pollQuestionUuid": "799fcd88-1dd4-41b6-b69f-76dc6bd94623",
+            "isCorrect": false,
+            "label": "I custom type esistono in JavaScript, ma non in TypeScript",
+            "order": 3,
+            "votesCount": 1,
+            "votesPercentage": 5
+          }
+        ]
+      },
+      {
+        "uuid": "69503640-ef1a-4d1b-bb88-109abdc790d7",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Parliamo un po' di redux. Cosa è?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 23,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 23,
+          "votesCount": 23
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "d4820174-9c5b-4cc8-8e84-d7a36e13e783",
+            "pollQuestionUuid": "69503640-ef1a-4d1b-bb88-109abdc790d7",
+            "isCorrect": true,
+            "label": "E' una libreria JavaScript per la gestione e la centralizzazione dello stato di un'applicazione.",
+            "order": 0,
+            "votesCount": 22,
+            "votesPercentage": 96
+          },
+          {
+            "uuid": "37fdbf76-53f0-4083-96b2-a4da8ca133d8",
+            "pollQuestionUuid": "69503640-ef1a-4d1b-bb88-109abdc790d7",
+            "isCorrect": false,
+            "label": "E' un metodo JavaScript applicabile agli array. Cicla sull'array ed esegue una funzione che prende in input il risultato del ciclo precedente (utile ad esempio nei casi in cui si vogliono sommare tutti gli elementi di un array).",
+            "order": 1,
+            "votesCount": 1,
+            "votesPercentage": 4
+          },
+          {
+            "uuid": "37aa1d52-3f63-4def-9877-f9538a5c873a",
+            "pollQuestionUuid": "69503640-ef1a-4d1b-bb88-109abdc790d7",
+            "isCorrect": false,
+            "label": "E' un insieme di best practices che consentono allo sviluppatore di ottimizzare (e quindi ridurre) i tempi di sviluppo di un'applicazione.",
+            "order": 2,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "109d61de-d490-4404-be9f-cd5962f6fa4b",
+            "pollQuestionUuid": "69503640-ef1a-4d1b-bb88-109abdc790d7",
+            "isCorrect": false,
+            "label": "Nessuna delle precedenti",
+            "order": 3,
+            "votesCount": 0,
+            "votesPercentage": 0
+          }
+        ]
+      },
+      {
+        "uuid": "5fd5d49d-3c1a-4f40-8785-edeed67d69c2",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa è il dispatch?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 24,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 19,
+          "votesCount": 19
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "9fa2ea96-9908-4d6f-abbf-206c0b5e17e0",
+            "pollQuestionUuid": "5fd5d49d-3c1a-4f40-8785-edeed67d69c2",
+            "isCorrect": false,
+            "label": "Un metodo (non JavaScript) abbastanza proibito utilizzato per lo spaccio di materiale illegale.",
+            "order": 0,
+            "votesCount": 1,
+            "votesPercentage": 5
+          },
+          {
+            "uuid": "bb05d135-afa5-4ccd-8168-4c95567a6fe5",
+            "pollQuestionUuid": "5fd5d49d-3c1a-4f40-8785-edeed67d69c2",
+            "isCorrect": true,
+            "label": "L'unico modo presente in Redux che consente di inviare una action ed attivare un cambiamento di stato.",
+            "order": 1,
+            "votesCount": 15,
+            "votesPercentage": 79
+          },
+          {
+            "uuid": "6e287ec4-c00b-433d-91a6-a2b19b7a343a",
+            "pollQuestionUuid": "5fd5d49d-3c1a-4f40-8785-edeed67d69c2",
+            "isCorrect": false,
+            "label": "E' la parte di Redux che contiene tutto lo stato dell'applicazione.",
+            "order": 2,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "e8002826-7fe1-4e27-b065-51302d7f5dfe",
+            "pollQuestionUuid": "5fd5d49d-3c1a-4f40-8785-edeed67d69c2",
+            "isCorrect": false,
+            "label": "E' la parte di Redux che consente di estrapolare solo la porzione di stato di cui ha bisogno un componente.",
+            "order": 3,
+            "votesCount": 3,
+            "votesPercentage": 16
+          }
+        ]
+      },
+      {
+        "uuid": "eeb8d1c7-a0d4-425f-a3bd-79735ec9c9bf",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa è esattamente una action in Redux?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 25,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 22,
+          "votesCount": 22
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "e16a3b96-2c5b-4871-ac5e-176d29fdc0d2",
+            "pollQuestionUuid": "eeb8d1c7-a0d4-425f-a3bd-79735ec9c9bf",
+            "isCorrect": false,
+            "label": "E' il metodo invocato tramite dispatch",
+            "order": 0,
+            "votesCount": 2,
+            "votesPercentage": 9
+          },
+          {
+            "uuid": "77e1bd40-e4f6-476e-8496-221137bf44c9",
+            "pollQuestionUuid": "eeb8d1c7-a0d4-425f-a3bd-79735ec9c9bf",
+            "isCorrect": true,
+            "label": "Un semplice oggetto che descrive la modifica da apportare allo stato dell'applicazione",
+            "order": 1,
+            "votesCount": 18,
+            "votesPercentage": 82
+          },
+          {
+            "uuid": "397a1bd1-0041-41ee-a649-551180705224",
+            "pollQuestionUuid": "eeb8d1c7-a0d4-425f-a3bd-79735ec9c9bf",
+            "isCorrect": false,
+            "label": "E' il punto esatto in cui avviene la modifica al singolo pezzetto dello stato dell'applicazione",
+            "order": 2,
+            "votesCount": 2,
+            "votesPercentage": 9
+          },
+          {
+            "uuid": "556535c3-8c0b-4ad1-8800-2b58a5f4bc55",
+            "pollQuestionUuid": "eeb8d1c7-a0d4-425f-a3bd-79735ec9c9bf",
+            "isCorrect": false,
+            "label": "Troppa confusione, non lo so, spiegacelo tu",
+            "order": 3,
+            "votesCount": 0,
+            "votesPercentage": 0
+          }
+        ]
+      },
+      {
+        "uuid": "ee206e4b-af42-429e-bf0e-d433457fed63",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "E allora il reducer chi è? Cosa fa?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 26,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 22,
+          "votesCount": 22
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "cfbf2f30-5093-4ad1-b06a-be45b00816fa",
+            "pollQuestionUuid": "ee206e4b-af42-429e-bf0e-d433457fed63",
+            "isCorrect": true,
+            "label": "Ok sì, allora è il reducer dove veramente viene modificato il singolo pezzettino dello stato.",
+            "order": 0,
+            "votesCount": 13,
+            "votesPercentage": 59
+          },
+          {
+            "uuid": "be408462-6c6d-4475-8d0f-4757218c870f",
+            "pollQuestionUuid": "ee206e4b-af42-429e-bf0e-d433457fed63",
+            "isCorrect": false,
+            "label": "Il reducer è la semplificazione introdotta nelle ultime versioni di Redux per ridurre la quantità di codice da scrivere.",
+            "order": 1,
+            "votesCount": 1,
+            "votesPercentage": 5
+          },
+          {
+            "uuid": "f5ba04e1-07b9-4eea-8296-3d991688ca87",
+            "pollQuestionUuid": "ee206e4b-af42-429e-bf0e-d433457fed63",
+            "isCorrect": false,
+            "label": "Il reducer rappresenta l'intero stato dell'applicazione.",
+            "order": 2,
+            "votesCount": 7,
+            "votesPercentage": 32
+          },
+          {
+            "uuid": "537df079-63ef-40a3-8d85-249b21162337",
+            "pollQuestionUuid": "ee206e4b-af42-429e-bf0e-d433457fed63",
+            "isCorrect": false,
+            "label": "Niente da fare, secondo me Redux va tutto spiegato daccapo",
+            "order": 3,
+            "votesCount": 1,
+            "votesPercentage": 5
+          }
+        ]
+      },
+      {
+        "uuid": "c61ceb59-b0a3-48f9-b78c-d0d389f83939",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Ultima su Redux. Cosa sono gli awaitCreators?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 27,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 21,
+          "votesCount": 21
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "a3f928c1-cc5c-46d5-a56a-55834ed6f4e9",
+            "pollQuestionUuid": "c61ceb59-b0a3-48f9-b78c-d0d389f83939",
+            "isCorrect": false,
+            "label": "I metodi che restituiscono alla view solo la porzione di stato di cui hanno bisogno.",
+            "order": 0,
+            "votesCount": 1,
+            "votesPercentage": 5
+          },
+          {
+            "uuid": "93d9b322-4f61-4029-808d-5ed46c43be97",
+            "pollQuestionUuid": "c61ceb59-b0a3-48f9-b78c-d0d389f83939",
+            "isCorrect": false,
+            "label": "Il metodo utilizzato in Redux per effettuare delle operazioni in maniera asincrona (es. chiamata HTTP).",
+            "order": 1,
+            "votesCount": 12,
+            "votesPercentage": 57
+          },
+          {
+            "uuid": "9d82ee77-1981-4464-81f1-6a33151dd36a",
+            "pollQuestionUuid": "c61ceb59-b0a3-48f9-b78c-d0d389f83939",
+            "isCorrect": false,
+            "label": "E' il metodo di Redux utilizzato per aggiornare lo stato, ma solo dopo il verificarsi della condizione passata in input.",
+            "order": 2,
+            "votesCount": 4,
+            "votesPercentage": 19
+          },
+          {
+            "uuid": "ac4b9a91-3cc9-43a3-bf36-129134f04818",
+            "pollQuestionUuid": "c61ceb59-b0a3-48f9-b78c-d0d389f83939",
+            "isCorrect": true,
+            "label": "Dai basta, te lo sei inventato.",
+            "order": 3,
+            "votesCount": 4,
+            "votesPercentage": 19
+          }
+        ]
+      },
+      {
+        "uuid": "e76f414c-d871-481a-897b-2841628d2284",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Se io dicessi \"Postman\"?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 28,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 22,
+          "votesCount": 22
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "7eba3099-40dc-4243-8552-5f331a2e5073",
+            "pollQuestionUuid": "e76f414c-d871-481a-897b-2841628d2284",
+            "isCorrect": false,
+            "label": "Il metodo presente in Redux che consente di effettuare delle modiche allo stato in maniera asincrona.",
+            "order": 0,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "17c69efe-6cc8-4fc5-86fd-3f54f3bc7397",
+            "pollQuestionUuid": "e76f414c-d871-481a-897b-2841628d2284",
+            "isCorrect": false,
+            "label": "Una famosa libreria JavaScript che consente di effettuare chiamate HTTP",
+            "order": 1,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "11409e73-d8dd-4f86-b2da-b27fdd79bc61",
+            "pollQuestionUuid": "e76f414c-d871-481a-897b-2841628d2284",
+            "isCorrect": true,
+            "label": "Un software che permette di fare chiamate HTTP, ma non ha nessuna relazione con JavaScript e/o React",
+            "order": 2,
+            "votesCount": 22,
+            "votesPercentage": 100
+          },
+          {
+            "uuid": "5f687756-3b29-4fba-85a0-cc24658d6302",
+            "pollQuestionUuid": "e76f414c-d871-481a-897b-2841628d2284",
+            "isCorrect": false,
+            "label": "L'uomo delle poste? Postino?",
+            "order": 3,
+            "votesCount": 0,
+            "votesPercentage": 0
+          }
+        ]
+      },
+      {
+        "uuid": "8b09145c-1faa-41c5-b505-895f89cc9d08",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa è json-server?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": false,
+        "order": 29,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 23,
+          "votesCount": 23
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "57a0fb84-1bba-4b67-a9ed-8a8720e8c5fb",
+            "pollQuestionUuid": "8b09145c-1faa-41c5-b505-895f89cc9d08",
+            "isCorrect": true,
+            "label": "E' una libreria che consente di creare delle API REST fake in poco tempo",
+            "order": 0,
+            "votesCount": 16,
+            "votesPercentage": 70
+          },
+          {
+            "uuid": "4cc9c9d8-8072-45a4-9625-7f6118b8898c",
+            "pollQuestionUuid": "8b09145c-1faa-41c5-b505-895f89cc9d08",
+            "isCorrect": false,
+            "label": "E' il formato dei dati restituiti dalle chiamate HTTP",
+            "order": 1,
+            "votesCount": 4,
+            "votesPercentage": 17
+          },
+          {
+            "uuid": "c2a0f678-5b30-4d7f-99ec-01b5354a4955",
+            "pollQuestionUuid": "8b09145c-1faa-41c5-b505-895f89cc9d08",
+            "isCorrect": false,
+            "label": "E' un server che restituisce file json",
+            "order": 2,
+            "votesCount": 3,
+            "votesPercentage": 13
+          },
+          {
+            "uuid": "63a9d69e-f1bc-434f-9c00-175181319cf3",
+            "pollQuestionUuid": "8b09145c-1faa-41c5-b505-895f89cc9d08",
+            "isCorrect": false,
+            "label": "Non lo so",
+            "order": 3,
+            "votesCount": 0,
+            "votesPercentage": 0
+          }
+        ]
+      },
+      {
+        "uuid": "1859deb9-94c2-48dc-a6d0-51642a3e90ec",
+        "pollUuid": "1ddb45ac-d85f-4b70-a3a8-f0e9096583d3",
+        "inputType": "MultipleChoice",
+        "title": "Cosa è jest?",
+        "description": null,
+        "imageLayout": "Simple",
+        "active": true,
+        "order": 30,
+        "timer": {
+          "enabled": true,
+          "votingTime": 90000
+        },
+        "showLeaderboardAfter": false,
+        "results": {
+          "displayType": "HorizontalBars",
+          "participantCount": 23,
+          "votesCount": 23
+        },
+        "rankingPoolSize": null,
+        "randomizeOptions": false,
+        "maxSelectableOptions": 1,
+        "correctAnswers": {
+          "allow": true,
+          "show": true
+        },
+        "options": [
+          {
+            "uuid": "13ef59b4-6621-4f71-81cd-ab1824d06d31",
+            "pollQuestionUuid": "1859deb9-94c2-48dc-a6d0-51642a3e90ec",
+            "isCorrect": false,
+            "label": "Una libreria che consente di disegnare grafici",
+            "order": 0,
+            "votesCount": 0,
+            "votesPercentage": 0
+          },
+          {
+            "uuid": "6b73b8c6-8158-4978-b117-722be6a65263",
+            "pollQuestionUuid": "1859deb9-94c2-48dc-a6d0-51642a3e90ec",
+            "isCorrect": true,
+            "label": "Un framework che consente di eseguire dei test",
+            "order": 1,
+            "votesCount": 19,
+            "votesPercentage": 83
+          },
+          {
+            "uuid": "16458587-2c5c-4eb3-8c85-6c396ce0fd8d",
+            "pollQuestionUuid": "1859deb9-94c2-48dc-a6d0-51642a3e90ec",
+            "isCorrect": false,
+            "label": "L'insieme delle funzioni che consentono di gestire gli eventi provenienti da gesti",
+            "order": 2,
+            "votesCount": 1,
+            "votesPercentage": 4
+          },
+          {
+            "uuid": "743057ef-7390-46dd-a203-5c0560dd9108",
+            "pollQuestionUuid": "1859deb9-94c2-48dc-a6d0-51642a3e90ec",
+            "isCorrect": false,
+            "label": "Un errore di ortografia",
+            "order": 3,
+            "votesCount": 3,
+            "votesPercentage": 13
+          }
+        ]
+      }
+    ],
+    "results": {
+      "participantCount": 24
+    }
+  }
+]
